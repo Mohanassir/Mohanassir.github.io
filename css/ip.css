@@ -1,0 +1,31 @@
+.Fruits p {
+  background-color: yellow;
+}
+.Travel p {
+  background-color: pink;
+}
+.Fruits p a {
+  font-weight: bold;
+}
+.Travel p a {
+  font-style: italic;
+
+}
+body {
+  background-color: skyblue;
+
+}
+img {
+  float: left;
+
+}
+li {
+  color: darkgreen;
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+}
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
